@@ -1,0 +1,30 @@
+@import "https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Caveat:wght@400..700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap";
+.cgd.actor.explorer div.attributes label.strength {
+    top: 58px;
+    left: 40px;
+}
+.cgd.actor.explorer div.attributes label.agility {
+    top: 58px;
+    right: 10px;
+}
+.cgd.actor.explorer div.attributes label.empathy {
+    top: 105px;
+    left: -10px;
+}
+.cgd.actor.explorer div.attributes label.logic {
+    top: 105px;
+    right: 5px;
+}
+.cgd.actor.explorer div.attributes label.insight {
+    bottom: 65px;
+    left: 0px;
+}
+.cgd.actor.explorer div.attributes label.perception {
+    bottom: 65px;
+    right: -10px;
+}
+.cgd.actor.explorer div.attributes svg text.attributes {
+    font-size: 13px;
+    letter-spacing: 4px;
+    font-family: "PT Serif", serif;
+}

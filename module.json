@@ -1,0 +1,33 @@
+{
+  "id": "cgd-ru",
+  "title": "Coriolis: The Great Dark | Русский перевод",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Sypchik",
+      "url": "https://boosty.to/sypchik_gs",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "path": "lang/ru.json",
+      "flags": {}
+    }
+  ],
+  "styles": [
+    {
+      "src": "styles/coriolis-tgd.css"
+    }
+  ],
+  "description": "<p>Модуль добавляет в Foundry VTT русский перевод Coriolis: The Great Dark. В текущий момент есть формы, которые перевести не удалось из-за технических ограничений.</p>"
+}
