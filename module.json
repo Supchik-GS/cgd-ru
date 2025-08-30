@@ -2,6 +2,8 @@
   "id": "cgd-ru",
   "title": "Coriolis: The Great Dark | Русский перевод",
   "version": "1.0.0",
+  "manifest": "https://github.com/Supchik-GS/cgd-ru/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Supchik-GS/cgd-ru/releases/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
