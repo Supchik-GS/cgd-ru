@@ -247,13 +247,15 @@
           "ArmorRoll":{
             "name": "Бросок брони",
             "item": {
-              "label": "Броня"
+              "label": "Броня",
+              "name": "Броня"
             }
           },
           "BlightProtectionRoll":{
             "name": "Бросок защиты от порчи",
             "item": {
-              "label": "Защита от порчи"
+              "label": "Защита от порчи",
+              "name": "Защита от порчи"
             }
           },
           "Stunt":{
@@ -753,6 +755,12 @@
     },
     "Roller": {
       "Bonuses": {
+        "GearBonus":{
+          "label": "Добавить снаряжение/оружие"
+        },
+        "TalentBonus":{
+          "label": "Добавить талант"
+        },
         "manualBonus": {
           "label": "Ручной бонус",
           "name": "{dice} Базовые кости"
