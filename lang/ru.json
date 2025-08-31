@@ -26,7 +26,7 @@
         "Upgrades": "Улучшения",
         "Stats": "Характеристики",
         "Automations": "Автоматизация",
-		"Solo": "Одиночка"			  
+		"Solo": "Одиночка"
       },
       "base": {
         "FIELDS": {
@@ -240,6 +240,38 @@
           "weapon": {
             "capacity": "Вместимость орудийных турелей:"
           }
+        },
+        "Automation":{
+          "SensorSweep.name": "Сканирование",
+          "Overload.name": "Перегрузка",
+          "ArmorRoll":{
+            "name": "Бросок брони",
+            "item": {
+              "label": "Броня"
+            }
+          },
+          "BlightProtectionRoll":{
+            "name": "Бросок защиты от порчи",
+            "item": {
+              "label": "Защита от порчи"
+            }
+          },
+          "Stunt":{
+            "name":"Трюк",
+            "item":{
+              "type":{
+                "name": "Маневренность"
+              }
+            }
+          },
+          "Ramming":{
+            "name":"Таран",
+            "item":{
+              "type":{
+                "name": "Таран"
+              }
+            }
+          }
         }
       },
       "Rover": {
@@ -269,6 +301,7 @@
         "Effects": "Эффекты",
         "Automations": "Авто",
         "Features": "Особенности"
+
       },
       "Talent": {
         "FIELDS": {
@@ -612,10 +645,10 @@
 		"label": "Журнал Одиночных Походов",
 		"tooltip": "Это базовая версия листа журнала одиночных походов. Имейте в виду, что в нём нет никакой автоматизации, и вам нужно будет вручную заполнять поля в соответствии с вашими приключениями в одиночных походах.",
 		"FIELDS": {
-		  "delveClass.label": "Класс Спуска",
+		  "delveClass.label": "Класс Похода",
 		  "depthClass.label": "Класс Глубины",
 		  "deepScanBonus.label": "Бонус Глубокого Сканирования",
-		  "blightScanBonus.label": "Бонус Сканирования Порчи",
+		  "blightScanBonus.label": "Бонус Сканирования Скверны",
 		  "distanceToExitBonus.label": "Бонус Расстояния до Выхода",
 		  "forayDistanceBonus.label": "Бонус Дальности Вылазки"
 		}
