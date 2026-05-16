@@ -870,7 +870,7 @@
       "creature": "Существо",
       "bird": "Птица",
       "crew": "Экипаж",
-      "kite": "Кайт",
+      "kite": "Змей",
       "rover": "Ровер",
       "shuttle": "Шаттл"
     },
@@ -884,7 +884,7 @@
       "creatureAbility": "Способность существа",
       "birdPower": "Сила Птицы",
       "crewManeuver": "Манёвр экипажа",
-      "kiteUpgrade": "Улучшение кайта",
+      "kiteUpgrade": "Улучшение Змея",
       "roverUpgrade": "Улучшение ровера",
       "shuttleUpgrade": "Улучшение шаттла",
       "vehicleWeapon": "Оружие транспорта",
